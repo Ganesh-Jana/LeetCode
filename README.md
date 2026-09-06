@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Ganesh-Jana/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0416-partition-equal-subset-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Ganesh-Jana/LeetCode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
