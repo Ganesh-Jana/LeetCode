@@ -6,21 +6,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Ganesh-Jana/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ganesh-Jana/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Ganesh-Jana/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ganesh-Jana/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
@@ -33,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ganesh-Jana/LeetCode/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
