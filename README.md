@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ganesh-Jana/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0494-target-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ganesh-Jana/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ganesh-Jana/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Math
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ganesh-Jana/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ganesh-Jana/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ganesh-Jana/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
