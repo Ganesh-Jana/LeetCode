@@ -1,27 +1,22 @@
 class Solution {
-    static int f(int index, int buy, int trans, int n, int[] prices, int[][][] dp){
-        if(index == n || trans == 0) return 0;
-
-        if(dp[index][buy][trans] != -1) return dp[index][buy][trans];
-
-        int profit = 0;
-        if(buy == 1){
-                profit = Math.max(-prices[index] + f(index+1, 0, trans, n, prices, dp), f(index+1, 1, trans, n, prices, dp));
-        }else{
-            profit = Math.max(prices[index] + f(index+1, 1, trans-1, n, prices, dp), 
-                                f(index+1, 0, trans, n, prices, dp));
-        }
-        return dp[index][buy][trans] = profit;
-    }
     public int maxProfit(int k, int[] prices) {
         int n = prices.length;
-        int[][][] dp = new int[n][2][k+1];
+        int[][][] dp = new int[n+1][2][k+1];
 
-        for(int[][] row : dp){
-            for(int[] rows : row){
-                Arrays.fill(rows, -1);
+        for(int index = n-1; index>= 0; index--){
+            for(int buy = 0; buy<=1; buy++){
+                for(int trans = 1; trans<=k; trans++){
+                    int profit = 0;
+                    if(buy == 1){
+                            profit = Math.max(-prices[index] + dp[index+1][0][trans], dp[index+1][1][trans]);
+                    }else{
+                        profit = Math.max(prices[index] + dp[index+1][1][trans-1], dp[index+1][0][trans]);
+                    } 
+                    dp[index][buy][trans] = profit;
+                }
             }
         }
-        return f(0, 1, k, n, prices, dp);
+        return dp[0][1][k];
+
     }
 }
