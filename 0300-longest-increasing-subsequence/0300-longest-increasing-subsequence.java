@@ -1,20 +1,23 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        int[][] dp = new int[n+1][n+1];
+        int[] dp = new int[n];
+        for(int i = 0; i<n; i++){
+            dp[i] = 1;
+        }
 
-        for(int index = n-1; index>=0; index--){
-            for(int prev_index = index-1; prev_index>=-1; prev_index--){
-                int notTake = dp[index+1][prev_index+1];
+       int maxi = 1;
+       for(int i = 0; i<n; i++){
+        for(int prev_index = 0; prev_index<i; prev_index++){
 
-                int Take = 0;
-                if(prev_index == -1 || nums[index]>nums[prev_index]){
-                    Take = 1 + dp[index+1][index+1];
-                }
-                dp[index][prev_index+1] = Math.max(notTake, Take);
+            if(nums[prev_index] < nums[i]){
+                dp[i] = Math.max(dp[i], 1 + dp[prev_index]);
             }
         }
-        return dp[0][0];
+        maxi = Math.max(maxi, dp[i]);
+       }
+       return maxi;
+
         
     }
 }
