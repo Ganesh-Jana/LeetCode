@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ganesh-Jana/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Ganesh-Jana/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/Ganesh-Jana/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ganesh-Jana/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ganesh-Jana/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Knapsack Problem
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ganesh-Jana/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ganesh-Jana/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/Ganesh-Jana/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ganesh-Jana/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ganesh-Jana/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
