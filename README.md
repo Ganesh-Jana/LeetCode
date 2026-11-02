@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ganesh-Jana/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Ganesh-Jana/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ganesh-Jana/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ganesh-Jana/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ganesh-Jana/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ganesh-Jana/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Ganesh-Jana/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ganesh-Jana/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ganesh-Jana/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh-Jana/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ganesh-Jana/LeetCode/tree/master/0115-distinct-subsequences) |
+| [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ganesh-Jana/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ganesh-Jana/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Ganesh-Jana/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ganesh-Jana/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
@@ -129,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ganesh-Jana/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
