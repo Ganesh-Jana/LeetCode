@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Ganesh-Jana/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ganesh-Jana/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ganesh-Jana/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-Jana/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ganesh-Jana/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ganesh-Jana/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ganesh-Jana/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ganesh-Jana/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ganesh-Jana/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-Jana/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh-Jana/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ganesh-Jana/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-Jana/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ganesh-Jana/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ganesh-Jana/LeetCode/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/Ganesh-Jana/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-Jana/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ganesh-Jana/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-Jana/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -169,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ganesh-Jana/LeetCode/tree/master/0056-merge-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-Jana/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
