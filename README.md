@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ganesh-Jana/LeetCode/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh-Jana/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ganesh-Jana/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ganesh-Jana/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ganesh-Jana/LeetCode/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/Ganesh-Jana/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ganesh-Jana/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ganesh-Jana/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ganesh-Jana/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
