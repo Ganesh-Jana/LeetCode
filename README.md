@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ganesh-Jana/LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Ganesh-Jana/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh-Jana/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ganesh-Jana/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh-Jana/LeetCode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Ganesh-Jana/LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Ganesh-Jana/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ganesh-Jana/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Ganesh-Jana/LeetCode/tree/master/1048-longest-string-chain) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ganesh-Jana/LeetCode/tree/master/0044-wildcard-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ganesh-Jana/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ganesh-Jana/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ganesh-Jana/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ganesh-Jana/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ganesh-Jana/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
